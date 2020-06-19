@@ -1,3 +1,15 @@
+## Notes
+
+<ul>
+    <li>Se debe configurar el envio de correo electronico para resetear la contraseña</li>
+    <li>Se crearon 2 Seeders para la carga de forma automática de los roles por defecto (admin, user) y para la creación de un usuario por defecto con rol administrador</li>
+    <li>Se debe crear la base de datos pruebas y ejecutar las migraciones y seeders</li>
+    <li>El Usuario por defecto es admin@admin.com y su contraseña es admin123</li>
+    <li>Cualquier otro usuario al registrarse se le asignará de forma automática el rol user y debera ingresar al sistema con los datos proporcionados en su registro</li>
+    </ul>
+    
+    Att. Christian Goncalves <jeam2006@gmail.com>
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
